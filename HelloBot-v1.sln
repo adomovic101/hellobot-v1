@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloBot.Api", "HelloBot.Api\HelloBot.Api.csproj", "{722D4E96-F412-4473-9813-92AA309467DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloBot.Api.Model", "HelloBot.Api.Model\HelloBot.Api.Model.csproj", "{35A5EFE7-5501-43FE-BFAD-FF8BA49D4CF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722D4E96-F412-4473-9813-92AA309467DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722D4E96-F412-4473-9813-92AA309467DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722D4E96-F412-4473-9813-92AA309467DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722D4E96-F412-4473-9813-92AA309467DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35A5EFE7-5501-43FE-BFAD-FF8BA49D4CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35A5EFE7-5501-43FE-BFAD-FF8BA49D4CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35A5EFE7-5501-43FE-BFAD-FF8BA49D4CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35A5EFE7-5501-43FE-BFAD-FF8BA49D4CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
